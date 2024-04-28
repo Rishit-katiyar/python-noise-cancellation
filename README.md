@@ -12,7 +12,7 @@ This project utilizes the PyAudio library for audio input/output and implements 
 - Visualization of microphone and speaker signals
 - Adjustable volume and microphone sensitivity
 
-![Figure_000000018371](https://github.com/Rishit-katiyar/python-noise-cancellation/assets/167756997/eb1c8cb8-aaf5-487e-9f89-47d0d3c5fd74)
+![Figure_10](https://github.com/Rishit-katiyar/python-noise-cancellation/assets/167756997/ccc7b993-1cad-493c-b3ac-dfedfcdac138)
 
 ## Installation
 
